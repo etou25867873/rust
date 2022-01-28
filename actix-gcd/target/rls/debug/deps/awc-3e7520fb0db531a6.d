@@ -1,0 +1,14 @@
+/Users/lowkeyrojo/rust/actix-gcd/target/rls/debug/deps/awc-3e7520fb0db531a6.rmeta: /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/lib.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/builder.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/connect.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/error.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/frozen.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/request.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/response.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/sender.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/test.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/ws.rs
+
+/Users/lowkeyrojo/rust/actix-gcd/target/rls/debug/deps/awc-3e7520fb0db531a6.d: /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/lib.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/builder.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/connect.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/error.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/frozen.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/request.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/response.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/sender.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/test.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/ws.rs
+
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/lib.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/builder.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/connect.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/error.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/frozen.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/request.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/response.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/sender.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/test.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/ws.rs:
