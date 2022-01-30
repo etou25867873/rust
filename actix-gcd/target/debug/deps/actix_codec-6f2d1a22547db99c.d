@@ -1,0 +1,11 @@
+/Users/lowkeyrojo/rust/actix-gcd/target/debug/deps/actix_codec-6f2d1a22547db99c.rmeta: /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/lowkeyrojo/rust/actix-gcd/target/debug/deps/libactix_codec-6f2d1a22547db99c.rlib: /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/lowkeyrojo/rust/actix-gcd/target/debug/deps/actix_codec-6f2d1a22547db99c.d: /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs:
+/Users/lowkeyrojo/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs:
